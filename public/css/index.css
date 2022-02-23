@@ -1,0 +1,58 @@
+
+
+#body {
+	background-color: rgb(208, 207, 199);
+  }
+  
+  #BLogin {
+	margin-top: 55px;
+	margin-left: 500px;
+   
+  }
+  
+  .container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+	display: flex;
+  }
+  
+  .BLogin1 {
+	border-radius: 20px;
+	box-shadow: 4px 8px 5px rgb(83,80,87);
+  }
+  
+  .centerTxt {
+	text-align: center;
+	color: rgb(202, 50, 63);
+  }
+  
+  .centerTxt1 {
+	color: rgb(202, 50, 63);
+  }
+  
+  .title {
+	text-align: center;
+	color: rgb(202, 50, 63);
+	font-size: small;
+	margin-top: 20px;
+  }
+  
+  .btn {
+	background-color: rgb(83,80,87);
+  }
+  
+  .brand-logo {
+	margin-left: 20px;
+	text-shadow: 3px 4px black;
+  }
+  
+  
+  .txtlog h4 {
+	margin: auto;
+	padding-top: auto;
+	height: 34px;
+	width: 140px;
+  }
+  
